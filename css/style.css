@@ -99,7 +99,9 @@ ul li:not(:last-child){
     position: absolute;
     width: 53px;
     height: 53px;
-    left: 150px;
+    left: 0;
+    right: 0;
+    margin: auto;
     top: -25px;
 }
 .quality-title{
@@ -200,14 +202,12 @@ svg{
     background: #FCF2EB;
     border-radius: 20px;
     object-fit: contain;
-    padding: 48px 83px;
-    height: 208px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .col-img img{
-    width: 100%;
+    max-width: 100%;
 }
 .care-content{
     padding: 50px 0 0 60px;

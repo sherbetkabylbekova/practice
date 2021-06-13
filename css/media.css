@@ -1,0 +1,287 @@
+@media (max-width: 992px) {
+    /*769 - 992*/
+    .hero-image {
+        display: none;
+    }
+
+    .hero-title {
+        Font-size: 65px;
+        Line-height: 90px;
+    }
+
+    .a.btn-dog {
+        font-size: 16px;
+    }
+
+    .dog-care {
+        padding: unset;
+    }
+
+    .care-content {
+        padding: unset;
+    }
+
+    a.btn-dog {
+        font-size: 13px;
+    }
+
+    .image-dog {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+    }
+
+    .dog-popular-img {
+        padding: unset;
+        margin-top: 80px;
+    }
+
+    .contacts-title {
+        Font-size: 26.25px;
+    }
+
+    .contacts-container:before {
+        top: 10px;
+        transform: unset;
+    }
+
+    .contacts-form {
+        font-size: 12px;
+    }
+
+    form.contacts-form {
+        margin-top: 60px;
+    }
+}
+
+.contacts-form input {
+    height: 40px;
+}
+
+.contacts-form button {
+    height: 40px;
+}
+
+.footer-left-side {
+    min-width: 250px;
+}
+
+.footer-right-side {
+    min-width: 250px;
+}
+
+.footer-title {
+    Font-size: 22px;
+}
+
+@media (max-width: 768px) {
+    /*481 - 768*/
+    .col-6 {
+        width: 100%;
+    }
+
+    ul {
+        display: none;
+    }
+
+    .hero-title {
+        Font-size: 35px;
+    }
+
+    .a.btn-dog {
+        font-size: 14px;
+    }
+
+    .col-4 {
+        width: 100%;
+    }
+
+    .quality-content {
+        margin: 25px;
+    }
+
+    .contacts-desc {
+        margin-top: 12px;
+    }
+
+    .contacts-title {
+        Font-size: 20px;
+    }
+
+    .contacts-container {
+        padding: 80px 70px;
+    }
+
+    .contacts-form input {
+        height: 30px;
+    }
+
+    .contacts-form button {
+        height: 30px;
+    }
+
+    .footer-wrapper {
+        justify-content: unset;
+        flex-direction: column;
+    }
+
+    .footer-left-side {
+        text-align: center;
+
+    }
+
+    .footer-right-side {
+        text-align: center;
+    }
+    .footer-socials{
+        display: flex;
+        order: 2;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+@media (max-width: 480px) {
+    /*320 - 480*/
+    .hero-title {
+        Font-size: 25px;
+    }
+
+    .hero-box {
+        text-align: center;
+    }
+
+    .a.btn-dog {
+        font-size: 10px;
+        line-height: 13px;
+        padding: 7px 18px;
+    }
+
+    .more {
+        font-size: 10px;
+        padding: 7px 18px;
+        line-height: 13px;
+    }
+
+    .quality-title {
+        font-size: 15px;
+    }
+
+    .quality-desc {
+        font-size: 13px
+    }
+
+    .quality-link {
+        font-size: 13px;
+    }
+
+    .quality-content {
+        padding: 33px 17px 9px 17px;
+    }
+
+    .care-content {
+        padding: unset;
+    }
+
+    .products-title {
+        font-size: 24.25px;
+        line-height: 33px;
+    }
+
+    a.btn-dog {
+        font-size: 10px;
+        padding: 7px 18px;
+        line-height: 13px;
+    }
+
+    .products-title {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .image-dog {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+    }
+
+    .products-info {
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+   .products-link{
+   font-size: 15px;
+   }
+
+    .col-desc {
+        font-size: 13px;
+}
+    .products-btn{
+        padding: 7px 17px;
+        font-size: 12px;
+    }
+    .dog-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .dog-desc {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .work-title {
+        Font-size: 25.25px;
+        Line-height: 28px;
+    }
+    .title-more {
+        Font-size: 18px;
+        Line-height: 23px;
+    }
+    .work-desc {
+        Line-height: 20px;
+        font-size: 14px;
+    }
+    .products-link {
+        line-height: 25px;
+        font-size: 12px;
+    }
+    .popular-title {
+        Font-size: 20.25px;
+    }
+    .popular-desc {
+        Line-height: 21px;
+        font-size: 15px;
+    }
+    .products-desc {
+        font-size: 20px;
+    }
+    .contacts-title {
+        Font-size: 23px;
+        Line-height: 30px;
+    }
+    .contacts-desc {
+        Line-height: 20px;
+        font-size: 17px;
+}
+    .contacts-form input {
+        height: 25px;
+        font-size: 12px;
+    }
+    .contacts-form button {
+        height: 25px;
+        font-size: 12px;
+    }
+    .contacts-form button {
+        padding: 0 15px
+    }
+    .footer-left-side {
+        font-size: 12px;
+    }
+    .footer-title {
+        Font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .footer-right-side {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+}
